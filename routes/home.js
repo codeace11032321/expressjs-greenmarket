@@ -7,7 +7,7 @@ const fetch = require('node-fetch'); // Ensure this is installed
 const testRoutes = require('./routes'); // Import your router
 
 const app = express();
-const PORT = process.env.PORT || 9000;
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(bodyParser.json());
