@@ -1,15 +1,12 @@
 {
-  "name": "vercel-testing",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "node express testing",
-  "main": "index.js",
-  "engines": {
-    "node": "18.x"
-  },
+  "description": "Express app with Webflow integration",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
