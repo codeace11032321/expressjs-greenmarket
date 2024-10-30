@@ -2,9 +2,9 @@
   "name": "your-project-name",
   "version": "1.0.0",
   "description": "Express app with Webflow integration",
-  "main": "api/server.js",
+  "main": "api/create-cms-item.js",
   "scripts": {
-    "start": "node api/server.js",
+    "start": "node api/create-cms-item.js",
     "build": "echo 'No build needed'"
   },
   "dependencies": {
